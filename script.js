@@ -21,3 +21,5 @@ for (let i = 0; i < arr.length; i++) {
 // }, 0);
 
 console.log(sum);
+
+console.log('test');
